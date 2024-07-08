@@ -1,4 +1,5 @@
 🔮 SSWU economics&statistics <br>
 🍀 SKKU statistics <br>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-- [x] I’m interested in time series change-point detection.
+🌠**What I am interested in**
+- [x] Time-Series Change Point Detection
