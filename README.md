@@ -2,4 +2,5 @@
 🍀 SKKU statistics <br>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🌠 **What I am interested in**
-- [x] Time-Series Change Point Detection
+- [x] Time-Series Community Detection
+- [x] Deep Learning
